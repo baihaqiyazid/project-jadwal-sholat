@@ -67,35 +67,35 @@ export default {
         updateCards() {
             this.cards = [
                 {
-                    imageUrl: 'src/assets/quran.jpg',
+                    imageUrl: '/quran.jpg',
                     title: `Shubuh ${this.$store.state.list[1].subuh}`,
                     subtitle: 'Keutamaan Sholat Shubuh',
                     show: false,
                     content: "Rasulullah SAW mendoakan umatnya yang bergegas dalam melaksanakan shalat Subuh, sebagaimana disebutkan dalam suatu hadits, ''Ya Allah berkahilah umatku selama mereka senang bangun Subuh.'' (HR Tirmizi, Abu Daud, Ahmad dan Ibnu Majah)."
                 },
                 {
-                    imageUrl: 'src/assets/quran.jpg',
+                    imageUrl: '/quran.jpg',
                     title: `Dzuhur ${this.$store.state.list[1].dzuhur}`,
                     subtitle: 'Keutamaan Sholat Dzuhur',
                     show: false,
                     content: "Terapi Jantung dan melancarkan Pencernaan. Menurut kaidah ilmu kesehatan China, waktu yang paling tepat untuk Terapi Jantung adalah jam 11.00-13.00 Siang sehingga dengan melaksanakan Shalat Zuhur, relaksasi akan tercapai melalui air wudhu sehingga perlahan panas jantung akan kembali normal."
                 },
                 {
-                    imageUrl: 'src/assets/quran.jpg',
+                    imageUrl: '/quran.jpg',
                     title: `Ashar ${this.$store.state.list[1].ashar}`,
                     subtitle: 'Keutamaan Sholat Ashar',
                     show: false,
                     content: "Shalat Ashar memiliki keutamaan luar biasa, termasuk masuk surga bagi yang mengerjakannya bersama Shalat Shubuh, perlindungan dari neraka, dan pahala dua kali lipat. Malaikat juga menyaksikannya, dan shalat ini membedakan orang beriman dari munafik. Dengan itu, Shalat Ashar adalah ibadah penting dalam Islam."
                 },
                 {
-                    imageUrl: 'src/assets/quran.jpg',
+                    imageUrl: '/quran.jpg',
                     title: `Maghrib ${this.$store.state.list[1].maghrib}`,
                     subtitle: 'Keutamaan Sholat Maghrib',
                     show: false,
                     content: "Shalat Ashar memiliki keutamaan luar biasa, termasuk masuk surga bagi yang mengerjakannya bersama Shalat Shubuh, perlindungan dari neraka, dan pahala dua kali lipat. Malaikat juga menyaksikannya, dan shalat ini membedakan orang beriman dari munafik. Dengan itu, Shalat Ashar adalah ibadah penting dalam Islam."
                 },
                 {
-                    imageUrl: 'src/assets/quran.jpg',
+                    imageUrl: '/quran.jpg',
                     title: `Isya ${this.$store.state.list[1].isya}`,
                     subtitle: 'Keutamaan Sholat Isya',
                     show: false,

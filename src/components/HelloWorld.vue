@@ -50,21 +50,21 @@ export default {
       show: false,
       cards: [
         {
-          imageUrl: 'src/assets/quran.jpg',
+          imageUrl: '/quran.jpg',
           title: 'Kewajiban Sholat',
           subtitle: '(QS. Al-Baqarah: 43)',
           show: false,
           content: "Wa aqiimush shalaata wa aatuz zakaata warka'uu ma'ar raaki'iin.Dan dirikanlah sholat, dan keluarkanlah zakat, dan tunduklah rukuk bersama orang-orang yang rukuk.' (QS. Al-Baqarah: 43)."
         },
         {
-          imageUrl: 'src/assets/sholat_card.jpg',
+          imageUrl: '/sholat_card.jpg',
           title: 'Hadist Nabi Muhammad SAW',
           subtitle: '(HR. Imam Bukhari dan Muslim dari Abdurrahman bin Auf)',
           show: false,
           content: "Rasulullah SAW bersabda: 'Islam didirikan di atas lima dasar, yaitu: memberi kesaksian bahwa tiada Tuhan selain Allah dan Nabi Muhammad adalah utusan Allah, mendirikan sholat, menunaikan zakat, berpuasa di bulan Ramadhan, dan melaksanakan ibadah haji ke Baitullah.' (HR. Imam Bukhari dan Muslim dari Abdurrahman bin Auf)."
         },
         {
-          imageUrl: 'src/assets/hikmah_sholat.jpg',
+          imageUrl: '/hikmah_sholat.jpg',
           title: 'Hikmah Sholat',
           subtitle: 'Hikmah Sholat',
           show: false,
@@ -74,13 +74,13 @@ export default {
       ],
       items: [
         {
-          src: 'src/assets/caro.jpg',
+          src: '/caro.jpg',
         },
         {
-          src: 'src/assets/caro2.jpg',
+          src: '/caro2.jpg',
         },
         {
-          src: 'src/assets/caro3.jpg',
+          src: '/caro3.jpg',
         },
       ],
     }
